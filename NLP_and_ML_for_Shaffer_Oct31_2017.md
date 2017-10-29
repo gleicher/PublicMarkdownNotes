@@ -39,7 +39,7 @@ Performance Analysis:
 + cross validation, bootstrapping, holdout, ...
 
 User-Centric Issues in Modeling and ML
-+ 
++ Interpretability
 
 ### More words we'll probably use
 + performance metrics
@@ -115,5 +115,5 @@ Topic Modeling
 	+ Why topic models are not good for classification
 + 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzk3Mzg5MjJdfQ==
+eyJoaXN0b3J5IjpbLTgyNTczMjEzNV19
 -->
