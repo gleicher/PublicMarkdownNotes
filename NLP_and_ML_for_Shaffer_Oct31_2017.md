@@ -10,6 +10,7 @@ Some notes to guide the conversation in Shaffer's group meeting for October 31, 
 + confirmation (statistical explanation)
 + interpretation (explanation in common sense)
 + generative models (as generators, as predictors/classifiers)
++ embeddings
 
 + classification vs. clustering
 + classification vs. regression
@@ -42,5 +43,5 @@ A few top ones... you can think of more
 + Bag of words models
 + Bag of feature models
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTM0ODIxNDhdfQ==
+eyJoaXN0b3J5IjpbLTE0MDg1MDk5MjddfQ==
 -->
