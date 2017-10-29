@@ -18,6 +18,8 @@ Some distinctions worth noting
 + predict vs. explain
 + generalization
 + generate vs. discriminate
+	+ P(X|Y) vs. P(Y|X)
+	+ generate: what is the distribution of things in the wor
 
 ### More words we'll probably use
 + performance metrics
@@ -65,5 +67,5 @@ Operations on Bag of Words models
 + Inverse Document Frequency
 + 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MjIzNjA1N119
+eyJoaXN0b3J5IjpbLTE2MTA4MDAxNzRdfQ==
 -->
