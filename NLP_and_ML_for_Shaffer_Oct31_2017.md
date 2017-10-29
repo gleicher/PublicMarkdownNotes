@@ -85,6 +85,10 @@ Latent Semantic Analysis (LSA)
 
 Topic Modeling
 + as a general concept
+	+ documents in topics
+	+ documents as mixtures of topics
+	+ words as evidence that a document is in a topic
++ Latent Dirichlet 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTM4MTQ1Ml19
+eyJoaXN0b3J5IjpbLTEyMjExMDgwMV19
 -->
