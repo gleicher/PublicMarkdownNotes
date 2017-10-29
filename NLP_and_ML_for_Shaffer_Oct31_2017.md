@@ -78,10 +78,13 @@ Operations on Bag of Words models
 + TF/IDF
 + Why not naively use the document/word matrix?
 	+ sparsity issues
-	+ word 
+	+ synonyms, other ways to say it, ...
 
 Latent Semantic Analysis (LSA)
-+ 
++ Do PCA on Word Vector Matrix
+
+Topic Modeling
++ as a general concept
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzg1NzU0NDNdfQ==
+eyJoaXN0b3J5IjpbLTExMTM4MTQ1Ml19
 -->
