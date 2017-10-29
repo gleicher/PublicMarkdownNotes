@@ -36,6 +36,7 @@ A few top ones... you can think of more
 + lemmatization (remove endings)
 + stemming (as a subset of lemmatization)
 + tagging / labeling
++ "Stop Words" removal
 
 ### Some standard tasks
 + sentiment analysis
@@ -46,7 +47,9 @@ A few top ones... you can think of more
 + Parsed representations
 + Semantic representations
 
+## Some Statistical Language Stuff To Know
 
+Operations on 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjUwOTk5NDldfQ==
+eyJoaXN0b3J5IjpbMjA0Mjc5NzU3OV19
 -->
