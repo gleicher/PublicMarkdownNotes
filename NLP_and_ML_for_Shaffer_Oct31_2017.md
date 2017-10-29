@@ -4,7 +4,12 @@ Some notes to guide the conversation in Shaffer's group meeting for October 31, 
 ## Some Machine Learning Vocabulary
 
 ### Some "types" of "Learning" Tasks
++ prediction 
++ clustering (figuring out what groups there are)
++ confirmation
+
 + classification vs. clustering
++ classification vs. regression
 
 
 ## Some Basic Thoughts on Natural Language Processing
@@ -18,5 +23,5 @@ A few top ones... you can think of more
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwOTY1OTUzOF19
+eyJoaXN0b3J5IjpbLTIwNTMzMDI5NzhdfQ==
 -->
