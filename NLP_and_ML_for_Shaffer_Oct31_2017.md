@@ -130,7 +130,7 @@ Topic Modeling
 	+ Why topic models are not good for classification
 + Fancier forms of topic models
 	+ Semi-Supervised Topic Models
-	+ Na
+	+ Naive projections of topic models
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTY1NTgyNzddfQ==
+eyJoaXN0b3J5IjpbMTQ4NjUzNDMzXX0=
 -->
