@@ -3,12 +3,13 @@ Some notes to guide the conversation in Shaffer's group meeting for October 31, 
 
 ## Some Machine Learning Vocabulary
 
-### Some "types" of "Learning" Tasks
+### Some "types" of "Learning" Tasks / Models
 + description
 + prediction 
 + clustering (figuring out what groups there are)
 + confirmation (statistical explanation)
 + interpretation (explanation in common sense)
++ generative models (as generators, as predictors/classifiers)
 
 + classification vs. clustering
 + classification vs. regression
@@ -32,9 +33,10 @@ A few top ones... you can think of more
 + tokenization
 + standardization
 + lemmatization (remove endings)
++ stemming (as a subset of lemmatization)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NzYzNjIzNF19
+eyJoaXN0b3J5IjpbMTEwMDg1NjNdfQ==
 -->
