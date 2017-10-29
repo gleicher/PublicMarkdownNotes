@@ -15,14 +15,15 @@ Some notes to guide the conversation in Shaffer's group meeting for October 31, 
 Some distinctions worth noting
 + classification vs. clustering
 + classification vs. regression
-+ predict 
++ predict vs. explain
++ generalization
++ generate vs. discriminate
 
 ### More words we'll probably use
-+ information gain
 + performance metrics
 	+ simple (accuracy, precision, recall, MCC, ...)
 	+ confidence-based AUC/PR, AUC/ROC
-
++ information gain
 + feature selection
 + feature engineering
 
@@ -64,5 +65,5 @@ Operations on Bag of Words models
 + Inverse Document Frequency
 + 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI5OTk4ODk3XX0=
+eyJoaXN0b3J5IjpbLTY3MjIzNjA1N119
 -->
