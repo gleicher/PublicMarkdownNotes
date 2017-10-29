@@ -98,10 +98,9 @@ Topic Modeling
 + Latent Dirichlet Allocation (LDA) models
 	+ The Naive version: 
 		+ document matrix (embedding), word matrix (embedding)
-
-Serendip & Serendip Slim
-+ https://github.com/uwgraphics/SerendipSlim
-+ 
++ Serendip & Serendip Slim
+	+ https://github.com/uwgraphics/SerendipSlim
+	+ http://vep.cs.wisc.edu/serendip/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzIzMjE1NTldfQ==
+eyJoaXN0b3J5IjpbMjA4NDk3NDMxOV19
 -->
