@@ -35,6 +35,7 @@ A few top ones... you can think of more
 + standardization
 + lemmatization (remove endings)
 + stemming (as a subset of lemmatization)
++ tagging / labeling
 
 ### Some standard tasks
 + sentiment analysis
@@ -42,6 +43,10 @@ A few top ones... you can think of more
 ### Some basic strategies
 + Bag of words models
 + Bag of feature models
++ Parsed representations
++ Semantic representations
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDg1MDk5MjddfQ==
+eyJoaXN0b3J5IjpbLTEwMjUwOTk5NDldfQ==
 -->
