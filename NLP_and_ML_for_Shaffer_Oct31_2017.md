@@ -23,7 +23,13 @@ A few top ones... you can think of more
 + multi-layered (syntax <-> semantics <-> higher level semantics)
 + many ways to say things
 
+### Low level work operations
++ tokenization
++ standardization
++ lemmatization (remove endings)
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MjQ3NTM5N119
+eyJoaXN0b3J5IjpbMTMxOTk4MjIzMV19
 -->
