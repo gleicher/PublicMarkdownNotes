@@ -49,6 +49,10 @@ User-Centric Issues in Modeling and ML
 + Interpretability
 + Explanations
 + Interpretable Models
++ Interpretable vs. Black-Box Models
+	+ simplification
+	+ new model type choices
+	+ other strategies
 
 ### More words we'll probably use
 + performance metrics
@@ -131,6 +135,9 @@ Topic Modeling
 + Fancier forms of topic models
 	+ Semi-Supervised Topic Models
 	+ Naive projections of topic models
+
+Word-Vector Embeddings
++ The idea
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NjUzNDMzXX0=
+eyJoaXN0b3J5IjpbLTEzODg5OTY4NTRdfQ==
 -->
