@@ -45,6 +45,7 @@ Performance Analysis:
 + information gain
 + feature selection
 + feature engineering
++ latent features / concepts
 
 ## Some Basic Thoughts on Natural Language Processing
 Warning: I am not a language expert.
@@ -94,13 +95,15 @@ Topic Modeling
 + as a general concept
 	+ documents in topics
 	+ documents as mixtures of topics
+	+ topic space as an embedding for documents
 	+ words as evidence that a document is in a topic
 + Latent Dirichlet Allocation (LDA) models
 	+ The Naive version: 
 		+ document matrix (embedding), word matrix (embedding)
+	+ The "real" version (with the dice game)
 + Serendip & Serendip Slim
 	+ https://github.com/uwgraphics/SerendipSlim
 	+ http://vep.cs.wisc.edu/serendip/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NDk3NDMxOV19
+eyJoaXN0b3J5IjpbODAyNjQwMTQ1XX0=
 -->
