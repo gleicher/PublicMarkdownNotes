@@ -98,7 +98,8 @@ Topic Modeling
 + Latent Dirichlet Allocation (LDA) models
 	+ The Naive version: 
 		+ document matrix (embedding), word matrix (embedding)
-		+ 
+
+Serendip
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0ODA2NTI2XX0=
+eyJoaXN0b3J5IjpbMjExMDY5ODgzMV19
 -->
