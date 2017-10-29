@@ -138,6 +138,10 @@ Topic Modeling
 
 Word-Vector Embeddings
 + The idea
++ The methods
+	+ Word2Vec
+	+ GLoVE
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODg5OTY4NTRdfQ==
+eyJoaXN0b3J5IjpbLTIwOTUxMzY1OV19
 -->
