@@ -96,7 +96,9 @@ Topic Modeling
 	+ documents as mixtures of topics
 	+ words as evidence that a document is in a topic
 + Latent Dirichlet Allocation (LDA) models
-	+ 
+	+ The Naive version: 
+		+ document matrix (embedding), word matrix (embedding)
+		+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2ODU5NTU5M119
+eyJoaXN0b3J5IjpbMTA0ODA2NTI2XX0=
 -->
