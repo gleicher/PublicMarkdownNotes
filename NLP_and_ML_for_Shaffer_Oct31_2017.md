@@ -101,6 +101,7 @@ Topic Modeling
 
 Serendip & Serendip Slim
 + https://github.com/uwgraphics/SerendipSlim
++ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjYzNDc3OTJdfQ==
+eyJoaXN0b3J5IjpbLTEyMzIzMjE1NTldfQ==
 -->
