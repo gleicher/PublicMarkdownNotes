@@ -16,6 +16,7 @@ Some notes to guide the conversation in Shaffer's group meeting for October 31, 
 
 ## Some Basic Thoughts on Natural Language Processing
 Warning: I am not a language expert.
+
 ### Why is language hard? 
 A few top ones... you can think of more
 + context dependent
@@ -23,7 +24,9 @@ A few top ones... you can think of more
 + redundant (designed for errors)
 + multi-layered (syntax <-> semantics <-> higher level semantics)
 + many ways to say things
-+ reference to toher 
++ reference to other things
++ other communications modalities (intonation, gesture, common reference)
++ reference to shared knowledge 
 
 ### Low level work operations
 + tokenization
@@ -33,5 +36,5 @@ A few top ones... you can think of more
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTQxMDM5OV19
+eyJoaXN0b3J5IjpbLTY0NzYzNjIzNF19
 -->
