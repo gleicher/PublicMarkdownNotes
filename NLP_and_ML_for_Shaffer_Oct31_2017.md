@@ -100,6 +100,12 @@ Operations on Bag of Words models
 	+ sparsity issues
 	+ synonyms, other ways to say it, ...
 
+Alternatives to Bag of Words
++ Sliding windows
++ chunked texts
++ Skip-Grams
++ recursive models
+
 Simple Methods - why/why not
 + rules/dictionaries
 + interpretability
@@ -122,7 +128,9 @@ Topic Modeling
 	+ http://vep.cs.wisc.edu/serendip/
 + What topic models is/is not good for
 	+ Why topic models are not good for classification
-+ 
++ Fancier forms of topic models
+	+ Semi-Supervised Topic Models
+	+ Na
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIxMjk3OTcxXX0=
+eyJoaXN0b3J5IjpbLTE4MTY1NTgyNzddfQ==
 -->
