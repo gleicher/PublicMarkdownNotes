@@ -12,9 +12,15 @@ Some notes to guide the conversation in Shaffer's group meeting for October 31, 
 + generative models (as generators, as predictors/classifiers)
 + embeddings
 
+Some distinctions worth noting
 + classification vs. clustering
 + classification vs. regression
++ predict 
 
++ information gain
+
++ feature selection
++ feature engineering
 
 ## Some Basic Thoughts on Natural Language Processing
 Warning: I am not a language expert.
@@ -49,7 +55,10 @@ A few top ones... you can think of more
 
 ## Some Statistical Language Stuff To Know
 
-Operations on 
+Operations on Bag of Words models
++ Text Frequency
++ Inverse Document Frequency
++ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0Mjc5NzU3OV19
+eyJoaXN0b3J5IjpbMzA5MjUxNjM1XX0=
 -->
