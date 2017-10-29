@@ -29,7 +29,7 @@ Some specific models:
 
 Performance Analysis:
 + testing generalization vs. testing ...
-+ 
++ cross validation, bootstrapping, holdout, ...
 
 ### More words we'll probably use
 + performance metrics
@@ -77,6 +77,11 @@ Operations on Bag of Words models
 + Inverse Document Frequency
 + TF/IDF
 + Why not naively use the document/word matrix?
+	+ sparsity issues
+	+ word 
+
+Latent Semantic Analysis (LSA)
++ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4ODczMjY2Nl19
+eyJoaXN0b3J5IjpbLTExMzg1NzU0NDNdfQ==
 -->
