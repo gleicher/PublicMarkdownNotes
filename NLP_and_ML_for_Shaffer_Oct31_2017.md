@@ -99,7 +99,8 @@ Topic Modeling
 	+ The Naive version: 
 		+ document matrix (embedding), word matrix (embedding)
 
-Serendip
+Serendip & Serendip Slim
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMDY5ODgzMV19
+eyJoaXN0b3J5IjpbMTY0Njg4MDYzNl19
 -->
