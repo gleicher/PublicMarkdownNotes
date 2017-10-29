@@ -91,6 +91,8 @@ Operations on Bag of Words models
 Latent Semantic Analysis (LSA)
 + Do PCA on Word Vector Matrix
 
+Simple Me
+
 Topic Modeling
 + as a general concept
 	+ documents in topics
@@ -104,6 +106,9 @@ Topic Modeling
 + Serendip & Serendip Slim
 	+ https://github.com/uwgraphics/SerendipSlim
 	+ http://vep.cs.wisc.edu/serendip/
++ What topic models is/is not good for
+	+ Why topic models are not good for classification
++ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAyNjQwMTQ1XX0=
+eyJoaXN0b3J5IjpbMjAxMDE3MTAwOV19
 -->
