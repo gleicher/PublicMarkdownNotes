@@ -91,7 +91,7 @@ Operations on Bag of Words models
 Latent Semantic Analysis (LSA)
 + Do PCA on Word Vector Matrix
 
-Simple Me
+Simple Methods
 
 Topic Modeling
 + as a general concept
@@ -110,5 +110,5 @@ Topic Modeling
 	+ Why topic models are not good for classification
 + 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMDE3MTAwOV19
+eyJoaXN0b3J5IjpbLTI4MjMwODM5NV19
 -->
