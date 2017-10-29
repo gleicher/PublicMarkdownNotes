@@ -38,6 +38,9 @@ Performance Analysis:
 + testing generalization vs. testing ...
 + cross validation, bootstrapping, holdout, ...
 
+User-Centric Issues in Modeling and ML
++ 
+
 ### More words we'll probably use
 + performance metrics
 	+ simple (accuracy, precision, recall, MCC, ...)
@@ -88,10 +91,12 @@ Operations on Bag of Words models
 	+ sparsity issues
 	+ synonyms, other ways to say it, ...
 
+Simple Methods - why/why not
++ rules/dictionaries
++ interpretability
+
 Latent Semantic Analysis (LSA)
 + Do PCA on Word Vector Matrix
-
-Simple Methods
 
 Topic Modeling
 + as a general concept
@@ -110,5 +115,5 @@ Topic Modeling
 	+ Why topic models are not good for classification
 + 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MjMwODM5NV19
+eyJoaXN0b3J5IjpbLTExMzk3Mzg5MjJdfQ==
 -->
