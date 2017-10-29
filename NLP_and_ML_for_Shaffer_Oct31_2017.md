@@ -17,7 +17,11 @@ Some distinctions worth noting
 + classification vs. regression
 + predict 
 
+### More words we'll probably use
 + information gain
++ performance metrics
+	+ simple (accuracy, precision, recall, MCC, ...)
+	+ confidence-based AUC/PR, AUC/ROC
 
 + feature selection
 + feature engineering
@@ -60,5 +64,5 @@ Operations on Bag of Words models
 + Inverse Document Frequency
 + 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA5MjUxNjM1XX0=
+eyJoaXN0b3J5IjpbNjI5OTk4ODk3XX0=
 -->
