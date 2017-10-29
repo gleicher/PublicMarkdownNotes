@@ -37,6 +37,7 @@ Some specific models:
 + Non-Linear models (and kernels)
 + Rule-based models
 + Decision Trees
++ 
 
 Performance Analysis:
 + testing generalization vs. testing ...
@@ -121,5 +122,5 @@ Topic Modeling
 	+ Why topic models are not good for classification
 + 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQxMDEyMzUxXX0=
+eyJoaXN0b3J5IjpbMjk2MjIwODU2XX0=
 -->
