@@ -12,14 +12,15 @@ Some notes to guide the conversation in Shaffer's group meeting for October 31, 
 + generative models (as generators, as predictors/classifiers)
 + embeddings
 
-Some distinctions worth noting
+Some distinctions worth noting:
 + classification vs. clustering
 + classification vs. regression
 + predict vs. explain
 + generalization
 + generate vs. discriminate
 	+ P(X|Y) vs. P(Y|X)
-	+ generate: what is the distribution of things in the world
+	+ generate: what is the distribution of things in the world? (given the class, how likely is this thing)
+	+ discriminate: given this thing, how likely is it to be in the class
 
 ### More words we'll probably use
 + performance metrics
@@ -65,7 +66,8 @@ A few top ones... you can think of more
 Operations on Bag of Words models
 + Text Frequency
 + Inverse Document Frequency
-+ 
++ TF/IDF
++ Why not naively 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTY3NjQ5MThdfQ==
+eyJoaXN0b3J5IjpbLTIwMTcyNjY4NzddfQ==
 -->
