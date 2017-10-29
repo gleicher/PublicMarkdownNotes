@@ -12,6 +12,8 @@ Some notes to guide the conversation in Shaffer's group meeting for October 31, 
 + generative models (as generators, as predictors/classifiers)
 + embeddings
 
+
+
 Some distinctions worth noting:
 + classification vs. clustering
 + classification vs. regression
@@ -88,7 +90,8 @@ Topic Modeling
 	+ documents in topics
 	+ documents as mixtures of topics
 	+ words as evidence that a document is in a topic
-+ Latent Dirichlet 
++ Latent Dirichlet Allocation (LDA) models
+	+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjExMDgwMV19
+eyJoaXN0b3J5IjpbLTg4NDc0MTYzMl19
 -->
