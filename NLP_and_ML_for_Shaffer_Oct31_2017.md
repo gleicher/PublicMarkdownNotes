@@ -21,7 +21,7 @@ Warning: I am not a language expert.
 ### Why is language hard? 
 A few top ones... you can think of more
 + context dependent
-+ ambiguous
++ ambiguous (at all levels)
 + redundant (designed for errors)
 + multi-layered (syntax <-> semantics <-> higher level semantics)
 + many ways to say things
@@ -35,8 +35,12 @@ A few top ones... you can think of more
 + lemmatization (remove endings)
 + stemming (as a subset of lemmatization)
 
+### Some standard tasks
++ sentiment analysis
 
-
+### Some basic strategies
++ Bag of words models
++ Bag of feature
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMDg1NjNdfQ==
+eyJoaXN0b3J5IjpbNjUwODcxNDA2XX0=
 -->
