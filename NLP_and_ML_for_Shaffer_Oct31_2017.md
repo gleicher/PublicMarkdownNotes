@@ -40,7 +40,7 @@ A few top ones... you can think of more
 
 ### Some basic strategies
 + Bag of words models
-+ Bag of feature
++ Bag of feature models
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUwODcxNDA2XX0=
+eyJoaXN0b3J5IjpbLTE1OTM0ODIxNDhdfQ==
 -->
