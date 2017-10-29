@@ -4,9 +4,11 @@ Some notes to guide the conversation in Shaffer's group meeting for October 31, 
 ## Some Machine Learning Vocabulary
 
 ### Some "types" of "Learning" Tasks
++ description
 + prediction 
 + clustering (figuring out what groups there are)
-+ confirmation
++ confirmation (statistical explanation)
++ interpretation (explanation in common sense)
 
 + classification vs. clustering
 + classification vs. regression
@@ -23,5 +25,5 @@ A few top ones... you can think of more
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTMzMDI5NzhdfQ==
+eyJoaXN0b3J5IjpbMjA2MjQ3NTM5N119
 -->
