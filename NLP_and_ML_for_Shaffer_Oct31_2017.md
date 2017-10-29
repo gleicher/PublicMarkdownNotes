@@ -23,8 +23,13 @@ Some distinctions worth noting:
 	+ discriminate: given this thing, how likely is it to be in the class
 
 Some specific models:
-+ generalized 
++ prediction as function approximation
+	+ generalization
 + Linear models (classifiers, regressors)
+
+Performance Analysis:
++ testing generalization vs. testing ...
++ 
 
 ### More words we'll probably use
 + performance metrics
@@ -73,5 +78,5 @@ Operations on Bag of Words models
 + TF/IDF
 + Why not naively use the document/word matrix?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzg5NTA0NzRdfQ==
+eyJoaXN0b3J5IjpbLTQ4ODczMjY2Nl19
 -->
