@@ -22,6 +22,10 @@ Some distinctions worth noting:
 	+ generate: what is the distribution of things in the world? (given the class, how likely is this thing)
 	+ discriminate: given this thing, how likely is it to be in the class
 
+Some specific models:
+
++ Linear models (classifiers, regressors)
+
 ### More words we'll probably use
 + performance metrics
 	+ simple (accuracy, precision, recall, MCC, ...)
@@ -67,7 +71,7 @@ Operations on Bag of Words models
 + Text Frequency
 + Inverse Document Frequency
 + TF/IDF
-+ Why not naively 
++ Why not naively use the document/word matrix?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTcyNjY4NzddfQ==
+eyJoaXN0b3J5IjpbLTQ5NTY4MTczNV19
 -->
