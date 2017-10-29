@@ -100,7 +100,7 @@ Topic Modeling
 		+ document matrix (embedding), word matrix (embedding)
 
 Serendip & Serendip Slim
-
++ https://github.com/uwgraphics/SerendipSlim
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0Njg4MDYzNl19
+eyJoaXN0b3J5IjpbLTE4MjYzNDc3OTJdfQ==
 -->
