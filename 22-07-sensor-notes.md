@@ -1,5 +1,8 @@
 # Sensing Proposal Notes - mid-July
 
+[![hackmd-github-sync-badge](https://hackmd.io/4l4HXXawSiuuRhGtNtGGiA/badge)](https://hackmd.io/4l4HXXawSiuuRhGtNtGGiA)
+
+
 Sensing involves tradeoffs. A robot system designer must balance requirements such as  power, size, precision, resolution, robustness, cost, latency, and computation. WEIRD SENSORS is an emerging sensor design strategy that provides an intriguing new point in the tradeoff space: they provide benefits in terms of simplicity, and therefore power, size, cost, robustness, latency and computation needs, in trade for providing data in an non-standard format with WEIRD properties. For example, a sensor might provide a histogram of scene depth values (Sec), rather than a per-pixel depth map, or it might provide bounds on scene motion, rather than a more standard flow map (Sec). The benefit of these sensors for robotics applications is that they can provide extremely favorable properties. The problem of these sensors is that in order to use them, we must devise new approaches that make use of their unusual data types.
 
 Robotics applications often require making extreme sensor tradeoffs. For example, small and robust depths sensors would allow creating an "active skin" around an arm or snake that would allow it to navigate in an unknown confined environment; low power and computation, but high speed sensors could help a micro-drone localize; or a very low latency motion detector could help a robot safely avoid dynamic obstacles in a dangerous scenario. WEIRD SENSORS offer the potential to enable new robotics applications, however, we first must develop methods that allow robots to make use of the WEIRD DATA they provide in order to address the core challenges of robotics.
@@ -18,10 +21,23 @@ Core capabilities/ideas:
 - fusing multiple sensors (super-res, better localization)
 - robot "fear" (be conservative - stay away from bad things so they don't have all of a sudden)
 
+## Existing sensors
+
+Emphasis: we see common challenges across the class, these "existing examples" give us something to work with now. Attractive for robots, but the big payoff is knowing how to work with these sensors
+
+1. Depth Histograms
+2. Speckle (motion magnitude detection)
+3. Spots (fast position estimation)
+4. **others?**
+
+Common properties:
+1. ambiguity in some dimension in trade for details in another
+2. **what else?**
+
 ## Core Questions:
 1. How do we interpret the observations from WEIRD sensors?
 
-    Inherrent ambiguity. But, it might be resolved through geometric reasoning or making multiple observations (which we can do because we have a robot). Or, we might be able to interpret things in useful ways despite the ambiguity.
+    Inherrent ambiguity. But, it might be resolved through geometric reasoning or making multiple observations (which we can do because we have a robot). Or, we might be able to interpret things in useful ways despite the ambiguity (see #3) but only if we understand it.
 
 2. How do we bring together observations from multiple sources?
 
