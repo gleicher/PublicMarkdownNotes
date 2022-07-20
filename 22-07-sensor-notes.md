@@ -7,11 +7,18 @@ Sensing involves tradeoffs. A robot system designer must balance requirements su
 
 Robotics applications often require making extreme sensor tradeoffs. For example, small and robust depths sensors would allow creating an "active skin" around an arm or snake that would allow it to navigate in an unknown confined environment; low power and computation, but high speed sensors could help a micro-drone localize; or a very low latency motion detector could help a robot safely avoid dynamic obstacles in a dangerous scenario. WEIRD SENSORS offer the potential to enable new robotics applications, however, we first must develop methods that allow robots to make use of the WEIRD DATA they provide in order to address the core challenges of robotics.
 
-In this project we will develop approaches that enable WEIRD SENSORS for robotics applications. We will use currently available sensors and common robotics problems to drive our exploration, devising not only specific solutions but also general tools that will generalize to future sensors and robotics needs. Our key idea is to make use of the DATA directly, rather than trying to convert it to a more standard representation. 
+In this project we will develop approaches that enable WEIRD SENSORS for robotics applications. We will use currently available sensors and common robotics problems to drive our exploration, devising not only specific solutions but also general tools that will generalize to future sensors and robotics needs. <s>Our key idea is to make use of the DATA directly, rather than trying to convert it to a more standard representation</s>. (*make the three core ideas to be "an idea"*)
 
 Project Strategy: New sensing modalities continue to appear. This includes new sensor types that will provide other kinds of WIERD DATA. Therefore, we need to develop a thorough understanding of WEIRD DATA SENSORS and how they may be used in robotics to appreciate the potential and tradeoffs these devices provide. We therefore seek to develop both solutions for current sensors, but also common strategies that may apply across sensing modalities. We seek to address both some current specific robotics needs, but also to develop common strategies that will apply in future cases where extreme sensing is necessary. In this project, we propose to explore a few initial examples using current sensors and applications and to use our results in these cases to develop more generalized approaches that will transfer to future problems and sensors. 
 
 WEIRD SENSORS offer a great synergy with robotics. On one hand, they offer properies that are desirable in robot sensing, including low power, low computation and communication demands, small size, and low cost. Conversely, robotics can address some of the shortcomings of the approach by being able to move the sensors in known ways, to integrate multiple sensors, and to have flexibility in the required representations. 
+
+Develop three core ideas that enable robots to make use of WEIRD SENSORS:
+1. A robot is able to **move the sensor**, often in known/controlled ways. By collecting measurements over time with motion, the observations may be improved and disambiguated.
+
+2. A robot system is able to have **multiple sensors** and sources of information. A robot may use a collection of WEIRD sensors, couple these observations with data from other sensors or robots, or even prior knowledge of what is being sensed. Effectively using this information together can allow for WIERD DATA to be used despite its incompleteness and ambiguities.
+
+3. A robot may be able to **act given imperfect data**. A robot may not need a complete detailed geometric model (the traditional representation constructed by sensing) in order to achieve its tasks.
 
 Core capabilities/ideas:
 - geometric calibration
@@ -60,3 +67,17 @@ Common properties:
 - SPLAM - use what ever information we have to update the model (map and position), use to fill gaps in the model (if you know what is in half of a scene)
 - affordance identification (can we identify things with certain signatures - flat surfaces, clear places on the floor to drive on, grasp points)
 
+Three apps that align with cores? (*problems really use all core technologies*)
+
+1. Sensitive skin that enables a robot to be reactive/teleoperated in a cluttered environment.
+
+2. Signature matching that allows a mobile robot to localize itself and be sensitive to environment dynamics. (could this be based on speckle?)
+
+3. SPLAM (robot tries to plan to goal - without a pre-build map, obtaining information incrementally - locally moving around but remembering where it ran into things)
+
+## Plan
+
+Two parallel threads (1 RA for each):
+
+1. Develop the core techniques (using sensor motion, combining sensors, applying incomplete representations)
+2. Build specific robotics applications that address specific existing problems with currently available sensors
